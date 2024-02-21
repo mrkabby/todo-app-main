@@ -16,7 +16,7 @@ function AddTodo() {
     //     setTodo(event.target.value);
     // }
 
-    function saveTodo() {
+ function saveTodo() {
         // Add new todo to existing list of todos
         // todos.push(todo);
         // Set all todos in local storage
